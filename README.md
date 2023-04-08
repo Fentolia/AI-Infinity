@@ -160,7 +160,7 @@ Choose Your Character, Create Magical Avatars.
 
 [Codeium](https://aiinfinity.blogspot.com/p/codingcodeium.html) - The modern coding superpower.
 
-
+[Mixpeek](https://mixpeek.com) - Managed API to build your A.I. application
 
 [Codex](https://aiinfinity.blogspot.com/p/codingcodex.html) - Codex interpret simple commands in natural language and execute them on the user’s behalf—making it possible to build a natural language interface to existing applications.
 
@@ -941,6 +941,8 @@ Without knowing how to code, and for free!
 [Scite](https://aiinfinity.blogspot.com/p/researchscite.html) - scite is a Brooklyn-based startup that helps researchers better discover and understand research articles through Smart Citations.
 
 ### •Search Engine:
+
+[Collie AI](https://collie.ai) - One-click embedded knowledge hubs.
 
 [Andi](https://aiinfinity.blogspot.com/p/search-engineandi.html) - Your smart search assistant.
 
